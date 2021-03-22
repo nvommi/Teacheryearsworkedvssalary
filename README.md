@@ -31,6 +31,8 @@ Looking strictly at the graphs and values given, it seems as though the data has
 1. For the 113 cluster anchor point, the years in the city is above average, the annual salary is below average, and the gross pay is below average.
 2. For the 25 cluster anchor point, the years in the city is above average, the annual salary is below average, and the gross pay is below average.
 3. For the 92 cluster anchor point, the years in the city is below average, the annual salary is below average, and the gross pay is below average. 
+![image](https://user-images.githubusercontent.com/78445017/111937956-4828d200-8a9f-11eb-95d0-d0c8a2615547.png)
+
 ![image](https://user-images.githubusercontent.com/78445017/111937874-20d20500-8a9f-11eb-979d-77c2631b8bb3.png)
 
 # Conclusions
