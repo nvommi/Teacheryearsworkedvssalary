@@ -2,7 +2,7 @@
 The problem I sought to tackle was determining how specifically the demographic of teachers are grouped regarding years worked and salary. I wanted to do a cluster analysis to understand if there were grouping of teachers that worked in Baltimore based on their Gross salary, annual salary, and years worked.
 
 # Background Statistics
-[Article On Teacher Happiness] ((https://www.baltimoresun.com/education/bs-md-teacher-turnover-20190903-fk72wh2w4vbcfiyxwprhdxzvzy-story.html)
+[Article On Teacher Happiness]((https://www.baltimoresun.com/education/bs-md-teacher-turnover-20190903-fk72wh2w4vbcfiyxwprhdxzvzy-story.html)
 This article basically stated that teachers in Maryland, even specifically baltimore city have been fleeing the occupation for more "prestigious" well paying jobs, which sparked my interest on seeing wheteher or not there were groupings of these "unhappy" teachers. 
 https://www.glassdoor.com/Salaries/baltimore-teacher-salary-SRCH_IL.0,9_IM63_KO10,17.htm
 This article stated that the average salary was around $33k-57k so I kept this in mind while conducting my analysis. 
