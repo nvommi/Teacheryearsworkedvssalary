@@ -7,7 +7,7 @@ This article basically stated that teachers in Maryland, even specifically balti
 [Average Salary for Teachers](https://www.glassdoor.com/Salaries/baltimore-teacher-salary-SRCH_IL.0,9_IM63_KO10,17.htm)
 This article stated that the average salary was around $33k-57k so I kept this in mind while conducting my analysis. 
 [Years Worked For Teacher](https://www.nea.org/advocating-for-change/new-from-nea/who-average-us-teacher)
-This link also said that the average teacher worked about 14 years with about 53 hours worked.
+This link also showed that the average teacher worked about 14 years with about 53 hours worked per weel.
 # Data Question and Business Question
 **Data Question: How much does an average teacher make and how long do they work?
 How do the cluster points compare to averages overall?
