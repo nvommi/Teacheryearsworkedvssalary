@@ -24,7 +24,7 @@ After filtering my data, standardizing it, finding the averages and standard dev
 ~35 years and 38k (25)
 ~42 years and 36k (92)
 
-Looking strictly at the graphs and values given, it seems as though the data has a very slight positive correlation, with the salaries increasing as years worked increases. The average years in the city, annual salary, and gross pay are as follows:
+Looking strictly at the graphs and values given, it seems as though the data appears to have a slight positive correlation, with the salaries increasing as years worked increases. Although I cannot specifically comment on the correlation, as the number of years increase, some salaries can also see increase. The average years in the city, annual salary, and gross pay are as follows:
 28.38 years, $48,405.65, $51,626.16
 
 
