@@ -29,9 +29,11 @@ Looking strictly at the graphs and values given, it seems as though when the yea
 
 
 
-1. For the 113 cluster anchor point, the years in the city is above average, the annual salary is below average, and the gross pay is below average.
-2. For the 25 cluster anchor point, the years in the city is above average, the annual salary is below average, and the gross pay is below average.
-3. For the 92 cluster anchor point, the years in the city is below average, the annual salary is below average, and the gross pay is below average. 
+1. For the 113 cluster anchor point, the years in the city is above average, the annual salary is below average, and the gross pay is below average. This cluster point had the least number of points. 
+2. For the 25 cluster anchor point, the years in the city is above average, the annual salary is below average, and the gross pay is below average. This data point had the middle number of points.
+3. For the 92 cluster anchor point, the years in the city is below average, the annual salary is below average, and the gross pay is below average. This data point had the most number of points.
+
+The clusters all tended to have a positive correlation. As the number of yeras worked increased, the annual salary increased in tow. The same was to be said for Gross pay with a positive correlation for it as well. As the number of years increased, so did the Gross Pay for the teachers.
 ![image](https://user-images.githubusercontent.com/78445017/111937956-4828d200-8a9f-11eb-95d0-d0c8a2615547.png)
 
 ![image](https://user-images.githubusercontent.com/78445017/111937874-20d20500-8a9f-11eb-979d-77c2631b8bb3.png)
